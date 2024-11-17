@@ -1,3 +1,3 @@
-# st0rmio.github.io
+# Personnal GitHub Pages website
 
-Personnal GitHub Pages website
+st0rmio.github.io
