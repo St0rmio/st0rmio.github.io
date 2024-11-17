@@ -1,2 +1,3 @@
 # Stormio's GitHub Pages
-[st0rmio.github.io](https://st0rmio.github.io)
+
+[Go see my Portfolio](https://st0rmio.github.io/portfolio/)
